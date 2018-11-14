@@ -1,0 +1,12 @@
+{
+  "name":"csvexporter",
+  "moduleVersion": "${project.version}",
+  "description":"CSV Exporter",
+  "initClassName":"com.attivio.csvexporter.ModuleInit",
+  "newFiles": {
+    "lib/csvexporter.jar": "lib/csvexporter-${project.version}.jar"
+  },
+  "connectors": {
+      "csvExporter":"com.attivio.csvexporter.CsvExporter"
+  }
+}

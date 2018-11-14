@@ -1,0 +1,13 @@
+com\attivio\csvexporter\SampleDataSourceScannerUITest.class
+com\attivio\csvexporter\SampleQueryTransformerTest.class
+com\attivio\csvexporter\SampleAttivioRunnableTest.class
+com\attivio\csvexporter\SampleCustomHttpDataSourceScannerTest.class
+com\attivio\csvexporter\SampleDataSourceScannerTest.class
+com\attivio\csvexporter\SampleDataSourceScannerUITest$1.class
+com\attivio\csvexporter\SampleIncrementalDataSourceScannerTest.class
+com\attivio\csvexporter\SamplePrincipalScannerTest.class
+com\attivio\csvexporter\SampleQueryRewriterTransformerTest.class
+com\attivio\csvexporter\SampleHttpDataSourceScannerTest.class
+com\attivio\csvexporter\SampleDocumentModifyingTransformerTest.class
+com\attivio\csvexporter\SampleResponseTransformerTest.class
+com\attivio\csvexporter\SampleFieldValueCreatingTransformerTest.class
